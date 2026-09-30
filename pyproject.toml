@@ -1,0 +1,10 @@
+[project]
+name = "jev-typesafe-ai"
+version = "0.1.0"
+description = "Tutorial for TypeSafe AI decision model Jev."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "typesafe-sdk>=0.7.2",
+]
